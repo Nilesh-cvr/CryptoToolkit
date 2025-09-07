@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nilesh_Study_new\\GIT\\Encryption and Encoding\\CryptoToolkit\\Encrypt_Encode_Decode_Decrypt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F346D5D2-C0DD-4EF6-9A92-98C65E81E580}|Encrypt_Encode_Decode_Decrypt.vcxproj|D:\\Nilesh_Study_new\\GIT\\Encryption and Encoding\\CryptoToolkit\\Encrypt_Encode_Decode_Decrypt\\EncryptDecrypt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F346D5D2-C0DD-4EF6-9A92-98C65E81E580}|Encrypt_Encode_Decode_Decrypt.vcxproj|solutionrelative:EncryptDecrypt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F346D5D2-C0DD-4EF6-9A92-98C65E81E580}|Encrypt_Encode_Decode_Decrypt.vcxproj|D:\\Nilesh_Study_new\\GIT\\Encryption and Encoding\\CryptoToolkit\\Encrypt_Encode_Decode_Decrypt\\ClientCode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F346D5D2-C0DD-4EF6-9A92-98C65E81E580}|Encrypt_Encode_Decode_Decrypt.vcxproj|solutionrelative:ClientCode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F346D5D2-C0DD-4EF6-9A92-98C65E81E580}|Encrypt_Encode_Decode_Decrypt.vcxproj|D:\\Nilesh_Study_new\\GIT\\Encryption and Encoding\\CryptoToolkit\\Encrypt_Encode_Decode_Decrypt\\Encrypt_Encode_Decode_Decrypt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F346D5D2-C0DD-4EF6-9A92-98C65E81E580}|Encrypt_Encode_Decode_Decrypt.vcxproj|solutionrelative:Encrypt_Encode_Decode_Decrypt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F346D5D2-C0DD-4EF6-9A92-98C65E81E580}|Encrypt_Encode_Decode_Decrypt.vcxproj|D:\\Nilesh_Study_new\\GIT\\Encryption and Encoding\\CryptoToolkit\\Encrypt_Encode_Decode_Decrypt\\Utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F346D5D2-C0DD-4EF6-9A92-98C65E81E580}|Encrypt_Encode_Decode_Decrypt.vcxproj|solutionrelative:Utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F346D5D2-C0DD-4EF6-9A92-98C65E81E580}|Encrypt_Encode_Decode_Decrypt.vcxproj|D:\\Nilesh_Study_new\\GIT\\Encryption and Encoding\\CryptoToolkit\\Encrypt_Encode_Decode_Decrypt\\EncodeDecode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F346D5D2-C0DD-4EF6-9A92-98C65E81E580}|Encrypt_Encode_Decode_Decrypt.vcxproj|solutionrelative:EncodeDecode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F346D5D2-C0DD-4EF6-9A92-98C65E81E580}|Encrypt_Encode_Decode_Decrypt.vcxproj|D:\\Nilesh_Study_new\\GIT\\Encryption and Encoding\\CryptoToolkit\\Encrypt_Encode_Decode_Decrypt\\ReusableCipherCtx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F346D5D2-C0DD-4EF6-9A92-98C65E81E580}|Encrypt_Encode_Decode_Decrypt.vcxproj|solutionrelative:ReusableCipherCtx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReusableCipherCtx.cpp",
+              "DocumentMoniker": "D:\\Nilesh_Study_new\\GIT\\Encryption and Encoding\\CryptoToolkit\\Encrypt_Encode_Decode_Decrypt\\ReusableCipherCtx.cpp",
+              "RelativeDocumentMoniker": "ReusableCipherCtx.cpp",
+              "ToolTip": "D:\\Nilesh_Study_new\\GIT\\Encryption and Encoding\\CryptoToolkit\\Encrypt_Encode_Decode_Decrypt\\ReusableCipherCtx.cpp",
+              "RelativeToolTip": "ReusableCipherCtx.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-06T12:20:51.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utils.cpp",
+              "DocumentMoniker": "D:\\Nilesh_Study_new\\GIT\\Encryption and Encoding\\CryptoToolkit\\Encrypt_Encode_Decode_Decrypt\\Utils.cpp",
+              "RelativeDocumentMoniker": "Utils.cpp",
+              "ToolTip": "D:\\Nilesh_Study_new\\GIT\\Encryption and Encoding\\CryptoToolkit\\Encrypt_Encode_Decode_Decrypt\\Utils.cpp",
+              "RelativeToolTip": "Utils.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-06T06:40:53.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EncryptDecrypt.cpp",
+              "DocumentMoniker": "D:\\Nilesh_Study_new\\GIT\\Encryption and Encoding\\CryptoToolkit\\Encrypt_Encode_Decode_Decrypt\\EncryptDecrypt.cpp",
+              "RelativeDocumentMoniker": "EncryptDecrypt.cpp",
+              "ToolTip": "D:\\Nilesh_Study_new\\GIT\\Encryption and Encoding\\CryptoToolkit\\Encrypt_Encode_Decode_Decrypt\\EncryptDecrypt.cpp",
+              "RelativeToolTip": "EncryptDecrypt.cpp",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAawF0AAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-06T06:39:05.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EncodeDecode.cpp",
+              "DocumentMoniker": "D:\\Nilesh_Study_new\\GIT\\Encryption and Encoding\\CryptoToolkit\\Encrypt_Encode_Decode_Decrypt\\EncodeDecode.cpp",
+              "RelativeDocumentMoniker": "EncodeDecode.cpp",
+              "ToolTip": "D:\\Nilesh_Study_new\\GIT\\Encryption and Encoding\\CryptoToolkit\\Encrypt_Encode_Decode_Decrypt\\EncodeDecode.cpp",
+              "RelativeToolTip": "EncodeDecode.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-06T06:37:40.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Encrypt_Encode_Decode_Decrypt.h",
+              "DocumentMoniker": "D:\\Nilesh_Study_new\\GIT\\Encryption and Encoding\\CryptoToolkit\\Encrypt_Encode_Decode_Decrypt\\Encrypt_Encode_Decode_Decrypt.h",
+              "RelativeDocumentMoniker": "Encrypt_Encode_Decode_Decrypt.h",
+              "ToolTip": "D:\\Nilesh_Study_new\\GIT\\Encryption and Encoding\\CryptoToolkit\\Encrypt_Encode_Decode_Decrypt\\Encrypt_Encode_Decode_Decrypt.h",
+              "RelativeToolTip": "Encrypt_Encode_Decode_Decrypt.h",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowCUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-06T06:36:31.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientCode.cpp",
+              "DocumentMoniker": "D:\\Nilesh_Study_new\\GIT\\Encryption and Encoding\\CryptoToolkit\\Encrypt_Encode_Decode_Decrypt\\ClientCode.cpp",
+              "RelativeDocumentMoniker": "ClientCode.cpp",
+              "ToolTip": "D:\\Nilesh_Study_new\\GIT\\Encryption and Encoding\\CryptoToolkit\\Encrypt_Encode_Decode_Decrypt\\ClientCode.cpp",
+              "RelativeToolTip": "ClientCode.cpp",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowCMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-04T16:21:03.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
